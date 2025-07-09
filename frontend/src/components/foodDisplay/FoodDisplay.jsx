@@ -1,7 +1,7 @@
 // components/FoodDisplay.jsx
 import React, { useContext } from 'react';
 import './FoodDisplay.css'
-import FoodItem from './fooditem/fooditem';
+import FoodItem from './fooditem/FoodItem';
 import { StoreContext } from '../../context/StoreContext';
 import { useState } from 'react';
 // import axios from axios;
